@@ -13,7 +13,7 @@ what do you think?
 2. Orange
 3. Lemonade
 4. what a cool ordered list
-	. .* unordered sub list yay
+*  unordered sub list yay
  * Pears
  * Grapes
  * Chocolate
