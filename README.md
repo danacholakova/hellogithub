@@ -13,16 +13,16 @@ what do you think?
 2. Orange
 3. Lemonade
 4. what a cool ordered list
-	..* unordered sub list yay
- *Pears
- *Grapes
- *Chocolate
+	. .* unordered sub list yay
+ * Pears
+ * Grapes
+ * Chocolate
 
  		ladida indented paragraph
 
-(https://www.google.com)
+	(https://www.google.com)
 
-(https://www.google.com "Google's Homepage")
+	(https://www.google.com "Google's Homepage")
 
 ### How is my practice? 
 
