@@ -6,7 +6,7 @@ this is a practice markdown
 what do you think?
 
 **_Banana!_**
-~ ~ blah blah blah ~ ~
+~~blah blah blah~~
 
 
 1. Apple
@@ -18,7 +18,7 @@ what do you think?
  *Grapes
  *Chocolate
 
-. . . ladida indented paragraph
+ 		ladida indented paragraph
 
 (https://www.google.com)
 
